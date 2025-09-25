@@ -1,4 +1,5 @@
 ## Fanboy
+warning: currently untested design!
 ![fanboy early render](doc/render.png)
 
 RP2040 and EMC2103 dual channel USB fan controller. XT30 12V power connector.
