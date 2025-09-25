@@ -60,15 +60,15 @@
       ],
       "drc_exclusions": [
         [
-          "missing_courtyard|148850000|103810000|69c2e0ac-ecd8-4fd8-8f17-93bc0a130bcd|00000000-0000-0000-0000-000000000000",
+          "missing_courtyard|157320000|80800000|e5aa342a-a156-476e-b60b-00a6678fac10|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "missing_courtyard|155580000|82960000|e5aa342a-a156-476e-b60b-00a6678fac10|00000000-0000-0000-0000-000000000000",
+          "missing_courtyard|168000000|101550000|032237ee-c8d5-4aca-8551-524c0b311958|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "missing_courtyard|188870000|103810000|1e1536eb-ee49-4c9a-8786-8e742d0cfb28|00000000-0000-0000-0000-000000000000",
+          "missing_courtyard|168920000|106510000|b0bc0310-e0a9-42e0-9efa-8b303cd727f2|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -620,7 +620,7 @@
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -679,7 +679,7 @@
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": false,
+      "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
