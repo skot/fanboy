@@ -60,7 +60,15 @@
       ],
       "drc_exclusions": [
         [
+          "missing_courtyard|148850000|103810000|69c2e0ac-ecd8-4fd8-8f17-93bc0a130bcd|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
           "missing_courtyard|155580000|82960000|e5aa342a-a156-476e-b60b-00a6678fac10|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "missing_courtyard|188870000|103810000|1e1536eb-ee49-4c9a-8786-8e742d0cfb28|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -490,7 +498,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "fanboy"
+    ]
   },
   "meta": {
     "filename": "fanboy.kicad_pro",
@@ -534,7 +544,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Manufacturing Files/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -545,7 +555,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "Manufacturing Files/fanboy BOM.csv",
+    "bom_export_filename": "Manufacturing Files/${PROJECTNAME} BOM.csv",
     "bom_fmt_presets": [
       {
         "field_delimiter": ",",
