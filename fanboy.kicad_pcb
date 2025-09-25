@@ -3457,9 +3457,9 @@
 				)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 0 1.55 180)
-			(layer "F.Fab")
+		(property "Value" "SCL"
+			(at -0.13 1.32 180)
+			(layer "F.SilkS")
 			(uuid "ea1e4ffc-cb31-486d-9329-f3dc0550bee5")
 			(effects
 				(font
@@ -9068,9 +9068,9 @@
 				)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 0 1.55 180)
-			(layer "F.Fab")
+		(property "Value" "SDA"
+			(at 0.44 1.38 180)
+			(layer "F.SilkS")
 			(uuid "6d655b25-2ba1-4429-989a-0099fe464959")
 			(effects
 				(font
@@ -13196,9 +13196,9 @@
 				)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 0 1.55 0)
-			(layer "F.Fab")
+		(property "Value" "GND"
+			(at -1.04 -1.47 0)
+			(layer "F.SilkS")
 			(uuid "6f994caf-98fb-4c27-8f0d-52457419b9df")
 			(effects
 				(font

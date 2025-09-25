@@ -7651,7 +7651,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-10.0KLRCT-ND"
+		(property "DK" "311-10KJRCT-ND"
 			(at 86.36 191.77 0)
 			(effects
 				(font
@@ -7660,7 +7660,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-0710KL"
+		(property "PARTNO" "RC0402JR-0710KL"
 			(at 86.36 191.77 0)
 			(effects
 				(font
